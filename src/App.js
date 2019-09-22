@@ -26,7 +26,7 @@ function App() {
           <p class="Item-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at imperdiet ligula. Duis non nibh ultricies, tempor mauris at, finibus dui. Sed sit amet venenatis nisi. Ut volutpat lobortis nulla vitae tincidunt. Ut interdum ullamcorper magna, at aliquet ante luctus non. Maecenas pulvinar vel leo eu lobortis. Nullam eget ligula ipsum.</p>
         </article>
         <article class="Item">
-          <div class="Item-heading">Stark Industries</div>
+          <div class="Item-heading">Hooli</div>
           <div class="Item-sub-heading">April 2017 - October 2018</div>
           <p class="Item-description">Etiam et turpis id eros mollis faucibus eget nec justo. Vivamus interdum leo sapien, sit amet euismod augue porta vitae. Praesent vitae ligula pretium, gravida felis ac, rhoncus orci. Sed et elit eget lectus vulputate venenatis. Quisque gravida lorem quis risus commodo maximus. Aliquam erat volutpat. In a lobortis tellus, eu efficitur libero.</p>
         </article>
